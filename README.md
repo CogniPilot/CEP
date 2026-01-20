@@ -18,7 +18,7 @@ A CEP is a design document that:
 | CEP | Title | Status |
 |-----|-------|--------|
 | [CEP-0001](CEP-0001.md) | CEP Purpose and Guidelines | Active |
-| [CEP-0002](CEP-0002.md) | Vehicle Repository Restructuring | Active |
+| [CEP-0002](CEP-0002.md) | Vehicle Repository Restructuring | Accepted |
 
 ## Contributing
 
