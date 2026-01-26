@@ -38,4 +38,4 @@ To propose a new CEP:
 
 ## License
 
-This repository and all CEPs are licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+This repository and all CEPs are licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
